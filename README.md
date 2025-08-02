@@ -3,6 +3,7 @@
 Este é um aplicativo interativo desenvolvido com **Streamlit** que permite explorar os 100 livros mais vendidos da Amazon. Com ele, você pode filtrar os livros por preço e avaliação, visualizar gráficos interativos e consultar detalhes completos sobre cada livro individualmente.
 
 ---
+[Clique aqui para ver o app online](https://livros-app-tbn89azzyutxyqknp2pbyb.streamlit.app/)
 
 ## Funcionalidades
 
